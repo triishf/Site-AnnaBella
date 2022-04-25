@@ -1,0 +1,43 @@
+body {
+    background: #d2d2c1 url('img/fundo.png');
+    font-family: 'Times New Roman', Times, serif 16px;
+}
+
+#principal {
+    width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#conteudo {
+    background: #e8e8d8;
+    padding: 10px;
+}
+
+#rodape {
+    text-align: center;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar {
+    text-align: center;
+}
+
+.img-publi {
+    border: 10px solid;
+    color: #c3c3ae;
+}
+
+h1 {
+    color: #828272;
+    font-size: 1.7px;
+}
